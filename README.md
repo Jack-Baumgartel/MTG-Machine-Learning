@@ -5,7 +5,7 @@ I'm embarking on a project to bring a cheap & effective trading card sorter to m
 
 [If you'd like to stay informed about this project, consider joining the email list here.](https://forms.gle/iumqqGqnhXvxfDHw8)
 
-See the demo video going through this code here (Not published yet, stay tuned!)
+[See the demo video going through this code here.](https://youtu.be/L17r8lau9S8)
 
 [See prior demo using optical character recognition & image hashing here.](https://github.com/Jack-Baumgartel/MTG-OCR-Imagehashing)
 
